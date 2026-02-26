@@ -106,7 +106,7 @@ Portifolio
 
 <section>
   <h2>Contato</h2>
-  <p>Email: (adicione seu email aqui)</p>
+  <p>Email: (thiagoorlandobarbosaferreira@gmail.com)</p>
 </section>
 
 <footer>
